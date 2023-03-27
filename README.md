@@ -12,7 +12,7 @@ A forum and for discussions and in-person gatherings of like minded individuals 
 
 ## When?
 
-We aim to meet monthly and propose to follow the following rough outliend schedule:
+We aim to meet monthly and propose to follow the rough schedule below:
 * One month we host a talk followed by networking and social discourse
 * One month we host lightning talks
 * One month we host a social event for networking and getting to know one another.
@@ -21,6 +21,6 @@ We aim to meet monthly and propose to follow the following rough outliend schedu
 
 Squamish, British Columbia, Canada. 
 
-We aim to meet at local venues in Squamish be they co-working spaces, local companies that volunteer their space or local establishments that can cater to social gatherings.
+We meet at various local venues in Squamish be they co-working spaces, local companies that volunteer their space or local establishments that can cater to social gatherings.
 
 Cheers!
