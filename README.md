@@ -1,6 +1,4 @@
-# Hello world
-
-![Squamtech Logo](/assets/squamtech.jpg)
+ ![Squamtech Logo](/assets/squamtech.jpg)
 
 Welcome to Squamtech - Squamish Technology Meetup Group
 
@@ -21,29 +19,8 @@ We aim to meet monthly and propose to follow the following rough outliend schedu
 
 ## Where?
 
-Squamish, British Columbia, Canada. We aim to meet at local venues in Squamish, either co-working spaces, local companies that volutneer their space or local establishments that can cater to social gatherings.
+Squamish, British Columbia, Canada. 
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Circle",
-        "coordinates": [
-          [
-            [-123.16,49.78]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+We aim to meet at local venues in Squamish be they co-working spaces, local companies that volunteer their space or local establishments that can cater to social gatherings.
 
 Cheers!
