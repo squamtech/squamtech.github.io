@@ -8,7 +8,7 @@ Welcome to Squamtech - Squamish Technology Meetup Group
 
 ## What?
 
-A forum and for discussions and in-person gatherings of like minded individuals in the Sea-ToSky / Squamish area. Birds of a feather, if you will, interested in all things tech.
+A forum for discussions and in-person gatherings of like minded individuals in the Sea-To-Sky / Squamish area. Birds of a feather, if you will, interested in all things tech.
 
 ## When?
 
