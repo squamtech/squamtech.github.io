@@ -14,8 +14,8 @@ A forum for discussions and in-person gatherings of like minded individuals in t
 
 We aim to meet monthly and propose to follow the rough schedule below:
 * One month we host a talk followed by networking and social discourse
-* One month we host lightning talks
-* One month we host a social event for networking and getting to know one another.
+* One month we host lightning talks followed by social discourse 
+* One month we host a social event for freeform discussions and getting to know one another.
 
 ## Where?
 
