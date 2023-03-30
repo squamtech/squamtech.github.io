@@ -1,1 +1,8 @@
+title: Squamtech - Squamish Technology Meetup Group
+
 theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
