@@ -1,6 +1,6 @@
  ![Squamtech Logo](/assets/squamtech.jpg)
 
-Welcome to Squamtech - Squamish Technology Meetup Group
+Welcome to the Squamish Technology Meetup Group (a.k.a Squamtech)!
 
 - Join [the Meetup group](https://www.meetup.com/squamishtech/)
 - Join [the discussion on slack](https://squamtech.slack.com)
