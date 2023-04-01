@@ -2,6 +2,8 @@ title: Squamish Technology Meetup Group
 
 theme: minima
 
+analytics: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
