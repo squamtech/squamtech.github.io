@@ -4,6 +4,11 @@ theme: minima
 
 analytics: true
 
+header_pages:
+  - code-of-conduct.md
+  - speaking.md
+  - sponsors.md
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
